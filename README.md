@@ -37,7 +37,7 @@ Built for scalability, it enables agencies to automate lead handling across mult
 This results in higher conversion rates, reduced manual work, and precise lead segmentation for follow-ups.
 
 ## Demo
-Refer to the attached `project_demo.pdf` for:
+Refer to the attached `Agency Lead Qualification & Appointment Chatbot.pdf` for:
 - Live chat widget screenshots
 - Full conversation flows (qualification + booking examples)
 - n8n workflow diagrams
