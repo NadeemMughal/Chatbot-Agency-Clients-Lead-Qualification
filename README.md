@@ -15,7 +15,7 @@ Built for scalability, it enables agencies to automate lead handling across mult
 - **Multi-Client Support**: Single chatbot deployment handles routing and branding for dozens of agency clients.
 
 ## Tech Stack
-- **Chatbot Platform**: Close.com bot (or similar no-code conversational platform)
+- **Chatbot Platform**: Closebot (or similar no-code conversational platform)
 - **CRM & Automations**: Go High Level (GHL)
 - **Backend Workflows**: n8n (for complex routing, tagging, and automation triggers)
 - **Triggers**: Website forms, live chat widgets, SMS inbound
