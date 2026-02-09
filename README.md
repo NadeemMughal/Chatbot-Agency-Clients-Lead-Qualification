@@ -3,7 +3,7 @@
 ## Overview
 A powerful no-code chatbot system designed for digital agencies managing 50+ clients. This chatbot captures leads from website contact forms and live chat widgets, qualifies them intelligently, books/reschedules appointments directly in Go High Level (GHL), routes conversations based on user preferences, assigns custom tags for targeted follow-ups, and triggers advanced GHL automations (e.g., internal notifications, workflow enrollments, SMS/email sequences).
 
-Built for scalability, it enables agencies to automate lead handling across multiple client websites while maintaining personalized, context-aware interactions.
+Built for scalability, it enables agencies to automate lead handling across multiple client websites while maintaining personalized, context-aware interactions. 
 
 ## Features
 - **Lead Capture & Multi-Channel Interaction**: Triggers from web forms or live chat widgets; supports SMS-to-SMS and web-based conversations.
